@@ -1,10 +1,14 @@
-# Combine Bootpack
+# Bootpack v1.0.0
 
 - Webpack
-- Bootstrap v3.4.1
+- Bootstrap 4
 - Perfect Scroll
 - Lazy Load
+
+- Material Icons
+- Font Awesome
 
 Author @andikachamberlin
 
 Powered by Flamecore Organization
+http://flamecore.pro
